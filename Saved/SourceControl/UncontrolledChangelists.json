@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/BP_FlyingGameMode.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/BP_FLyingPawn.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/FlyingGame.umap",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Audio/airplane.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/WaterPlane/NewWorld.umap",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/CommercialPlane/SM_col_CommercialPlane.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SM_col_CommercialPlane.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/SM_col_CommercialPlane.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/CommercialPlane/Meshes/Collision/SM_col_CommercialPlane.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/BP_SimGameMode.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/BP_SimFloatingPawn.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/BP_SimPlayerController.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Blueprints/UMG_Profiling.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/ACMDogfightGame/Content/SimBlank/Audio/ambience-crickets-light-rain-and-loud-but-distant-airliner-flyby-10578.uasset"
+			]
+		}
+	]
+}
