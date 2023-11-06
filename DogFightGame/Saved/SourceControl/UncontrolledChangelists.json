@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/BP_SimGameMode.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/BP_SimPlayerController.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/BP_SimFloatingPawn.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/UMG_Profiling.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/BP_FlyingPawn.uasset",
+				"/Users/elijahwalker/Documents/Unreal Projects/DogFightGame/Content/SimBlank/Blueprints/BP_FlyingGameMode.uasset"
+			]
+		}
+	]
+}
