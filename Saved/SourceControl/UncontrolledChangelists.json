@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Programs/UnrealEngine/UnrealEngineProjects/Scaffold/Scaffold/Content/FlyingGame/Blueprints/BP_BestPlane.uasset",
 				"C:/Users/Luigi/Documents/Unreal Projects/Scaffold/Content/FlyingGame/Levels/FlyingGame.umap",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
 				"C:/Users/Luigi/Documents/Unreal Projects/Scaffold/Content/FlyingGame/Blueprints/BP_Projectile.uasset",
